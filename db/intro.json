@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1000,
+      "categoryId": 1,
+      "description": "Asus",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 800,
+      "categoryId": 2,
+      "description": "Samsung",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "price": 1500,
+      "categoryId": 3,
+      "description": "Monster",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "price": 1250,
+      "categoryId": 4,
+      "description": "Excalibur",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "price": 600,
+      "categoryId": 5,
+      "description": "Casper",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Laptop",
+      "price": 400,
+      "categoryId": 6,
+      "description": "Grundig",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Laptop",
+      "price": 1600,
+      "categoryId": 7,
+      "description": "Lenova",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Laptop",
+      "price": 1300,
+      "categoryId": 8,
+      "description": "Dell",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 9,
+      "description": "Huawei",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg"
+    },
+    {
+      "name": "Laptop",
+      "price": "5000",
+      "categoryId": "9",
+      "description": "Huawei Mac",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg",
+      "id": 10
+    },
+    {
+      "name": "Laptop",
+      "price": "10000",
+      "categoryId": "7",
+      "description": "Dragon MS550",
+      "imageUrl": "https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/09/source-img/20180709173734_25771.jpg",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Asus"
+    },
+    {
+      "id": 2,
+      "name": "Samsung"
+    },
+    {
+      "id": 3,
+      "name": "Monster"
+    },
+    {
+      "id": 4,
+      "name": "Excalibur"
+    },
+    {
+      "id": 5,
+      "name": "Casper"
+    },
+    {
+      "id": 6,
+      "name": "Grundig"
+    },
+    {
+      "id": 7,
+      "name": "Lenova"
+    },
+    {
+      "id": 8,
+      "name": "Dell"
+    },
+    {
+      "id": 9,
+      "name": "Huawei"
+    }
+  ]
+}
